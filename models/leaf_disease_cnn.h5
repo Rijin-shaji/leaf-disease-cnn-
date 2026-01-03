@@ -1,0 +1,19 @@
+# leaf_disease_cnn.h5
+
+## Description
+`leaf_disease_cnn.h5` is the trained Convolutional Neural Network (CNN) model used for plant leaf disease detection.
+
+The model classifies leaf images into two categories:
+- **Healthy (good)**
+- **Infected**
+
+This file contains the complete trained model, including architecture, weights, and optimizer state.
+
+---
+
+## Model Type
+- **Deep Learning Model:** Convolutional Neural Network (CNN)
+- **Task:** Binary image classification
+- **Framework:** TensorFlow / Keras
+
+---
