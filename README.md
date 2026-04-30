@@ -7,7 +7,7 @@ Deep learning–based plant leaf disease classification system using Convolution
 
 ---
 
-## Leaf Disease Detection – CNN-Based Image Classification System
+# Leaf Disease Detection – CNN-Based Image Classification System
 
 ## Overview
 This project implements a computer vision–based deep learning system to automatically detect plant leaf diseases from images.  
