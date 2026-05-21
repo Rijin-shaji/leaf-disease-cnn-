@@ -15,7 +15,7 @@ A custom-built Convolutional Neural Network (CNN) is trained to classify leaf im
 
 ---
 
-## Objectives
+# Objectives
 - Classify leaf images as **Healthy** or **Infected**
 - Improve model performance using image augmentation
 - Train a custom CNN for binary image classification
