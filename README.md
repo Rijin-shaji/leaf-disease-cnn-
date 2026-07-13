@@ -1,4 +1,4 @@
-## leaf-disease-cnn-
+## leaf-disease-cnn
 A CNN-based image classification system to detect healthy and diseased leaves using computer vision and deep learning.
 
 #  Leaf Disease Detection using CNN
